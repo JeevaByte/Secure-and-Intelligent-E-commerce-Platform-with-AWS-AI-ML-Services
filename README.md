@@ -179,7 +179,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact
 
-For any questions or inquiries, please contact [Your Name] at [your.email@example.com].
+For any questions or inquiries, please contact Jeevanantham at jeeva.b1997@gmal.com.
 
 ## Acknowledgements
 
